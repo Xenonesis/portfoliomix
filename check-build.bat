@@ -1,0 +1,1 @@
+cd portfolio-redesign && npm run build
